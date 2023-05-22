@@ -1,0 +1,128 @@
+[
+  {
+    "numProd": 1,
+    "foto": "<img src='./img/prodAlm2.jpg'>",
+    "tipo": "Almohadón Spiderman",
+    "precio": 2000
+  },
+  {
+    "numProd": 2,
+    "foto": "<img src='./img/prodAlm4.jpg'>",
+    "tipo": "Almohadón Spike",
+    "precio": 2000
+  },
+  {
+    "numProd": 3,
+    "foto": "<img src='./img/prodAlm5.jpg'>",
+    "tipo": "Almohadón Saint Seiya",
+    "precio": 2000
+  },
+  {
+    "numProd": 4,
+    "foto": "<img src='./img/prodBuz1.jpg'>",
+    "tipo": "Buzo Rangers",
+    "precio": 5500
+  },
+  {
+    "numProd": 5,
+    "foto": "<img src='./img/prodBuz2.jpg'>",
+    "tipo": "Buzo Jojo´s",
+    "precio": 5500
+  },
+  {
+    "numProd": 6,
+    "foto": "<img src='./img/prodGor1.jpg'>",
+    "tipo": "Gorra Stone Ocean",
+    "precio": 2500
+  },
+  {
+    "numProd": 7,
+    "foto": "<img src='./img/prodGor2.jpg'>",
+    "tipo": "Gorra X-Men",
+    "precio": 2500
+  },
+  {
+    "numProd": 8,
+    "foto": "<img src='./img/prodGor4.jpg'>",
+    "tipo": "Gorra Ash",
+    "precio": 2500
+  },
+  {
+    "numProd": 9,
+    "foto": "<img src='./img/prodRem1.jpg'>",
+    "tipo": "Remera Spiderman",
+    "precio": 3000
+  },
+  {
+    "numProd": 10,
+    "foto": "<img src='./img/prodRem3.jpg'>",
+    "tipo": "Remera Stone Ocean",
+    "precio": 3000
+  },
+  {
+    "numProd": 11,
+    "foto": "<img src='./img/prodRem4.jpg'>",
+    "tipo": "Remera Rangers",
+    "precio": 3000
+  },
+  {
+    "numProd": 12,
+    "foto": "<img src='./img/prodRem5.jpg'>",
+    "tipo": "Remera Amazing",
+    "precio": 3000
+  },
+  {
+    "numProd": 13,
+    "foto": "<img src='./img/prodRem6.jpg'>",
+    "tipo": "Remera Cowboy Bebop",
+    "precio": 3000
+  },
+  {
+    "numProd": 14,
+    "foto": "<img src='./img/prodRem7.jpg'>",
+    "tipo": "Remera Eva-01",
+    "precio": 3000
+  },
+  {
+    "numProd": 15,
+    "foto": "<img src='./img/prodTaz1.jpg'>",
+    "tipo": "Taza Cowboy Bebop",
+    "precio": 4000
+  },
+  {
+    "numProd": 16,
+    "foto": "<img src='./img/prodTaz2.jpg'>",
+    "tipo": "Taza Spiderman",
+    "precio": 4000
+  },
+  {
+    "numProd": 17,
+    "foto": "<img src='./img/prodTaz3.jpg'>",
+    "tipo": "Taza X-Men",
+    "precio": 4000
+  },
+  {
+    "numProd": 18,
+    "foto": "<img src='./img/prodTot1.jpg'>",
+    "tipo": "Tote Bag Rangers",
+    "precio": 2000
+  },
+  {
+    "numProd": 19,
+    "foto": "<img src='./img/prodTot2.jpg'>",
+    "tipo": "Tote Bag Evangelion",
+    "precio": 2000
+  },
+  {
+    "numProd": 20,
+    "foto": "<img src='./img/prodTot3.jpg'>",
+    "tipo": "Tote Bag Stone Ocean",
+    "precio": 2000
+  },
+  {
+    "numProd": 21,
+    "foto": "<img src='./img/prodTot4.jpg'>",
+    "tipo": "Tote Bag Cheshire Cat",
+    "precio": 2000
+  }
+]
